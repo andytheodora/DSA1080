@@ -1,76 +1,34 @@
-DSA1080 – Python Basics Notebook
-This repository contains a Jupyter Notebook titled DSA1080.ipynb, which introduces the foundational concepts of Python programming. The notebook is part of an introductory course in Data Science and Analytics, designed to help beginners build a strong foundation in Python.
+# DSA1080 Class Notebook
 
-Contents
-The notebook includes lessons and examples covering the following Python concepts:
+This repository contains classwork and exercises completed as part of the **DSA1080: Data Science & Analytics** course. The notebook documents progress through various Python-based data science tasks.
 
-Printing to the console
+##  Notebook Title
+**DSA1080.ipynb**
 
-Defining and calling functions
+##  Weekly Class Tasks Covered
+- **May 20:** Getting to Know You in Python
+- **May 22:** [Additional tasks – update once known]
 
-Arithmetic operations
+##  Topics Practiced
+- Python basics (print, variables, input)
+- Markdown formatting in Jupyter
+- Lists and data types
+- Simple logic and user interaction
 
-Variables and data types (int, float, complex, str)
+##  File Structure
+- `DSA1080.ipynb`: Main notebook with all tasks
+- `README.md`: Overview of the notebook contents
 
-Type checking and type conversion
+##  Getting Started
+To run this notebook:
+1. Clone the repository
+2. Open in Jupyter Notebook or JupyterLab
+3. Follow the cells in order — markdown sections provide instructions or task descriptions
 
-Taking user input and working with strings
+##  Author
+Theodora Andy  
+*Freshman student in Data Science & Analytics*
 
-Conditional statements and indentation
+---
 
-Single-line and multi-line comments
-
-Using markdown cells for documentation in Jupyter
-
-Sample Activities
-The notebook features interactive exercises, such as:
-
-"Getting to Know You" Task
-Define personal details as variables, print an introduction, and interact with user input using the input() function.
-
-Code Practice
-Exercises on indentation, variable declarations, type conversion, and more.
-
-Requirements
-To run this notebook, you will need:
-
-Python 3.x
-
-Jupyter Notebook
-
-Install Jupyter via pip if not already installed:
-
-bash
-Copy
-Edit
-pip install notebook
-To launch the notebook:
-
-bash
-Copy
-Edit
-jupyter notebook
-How to Use
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/DSA1080.git
-Navigate into the folder:
-
-bash
-Copy
-Edit
-cd DSA1080
-Launch the notebook environment and open DSA1080.ipynb.
-
-Purpose
-This notebook is designed to introduce new learners to programming with Python in an interactive and easy-to-follow format. It uses both code and markdown to reinforce key concepts and practices.
-
-Author
-Theodora Andy
-Data Science and Analytics Student
-
-License
-This project is licensed under the MIT License.
+> 📌 _This notebook reflects a work-in-progress learning journey. Tasks are updated weekly based on classroom instruction._
